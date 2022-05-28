@@ -1,6 +1,7 @@
 # Getting Started
 
-js-library-liyife15
+Hello! I made this JavaScript library to help developers create responsive thumbnail displays on platforms such as iMDB and MyAnimeList. This project was created in CSC309 course at UofT for the Winter term of 2022. 
+
 Link to landing page: "https://aggro-anime.herokuapp.com/landing.html"
 Link to documention: "https://aggro-anime.herokuapp.com/documentation.html"
 
