@@ -1,0 +1,14 @@
+img {
+  max-width: 50%;
+  max-height: 20%;
+  height: auto;
+  width: auto;
+}
+
+body {
+  font-family: "Courier New", Courier, monospace;
+}
+
+p {
+  width: 70%;
+}

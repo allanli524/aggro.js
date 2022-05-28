@@ -1,0 +1,55 @@
+.thumbnail_pic {
+  width: 100%;
+  height: 100%;
+  border: 0.5px black solid;
+  float: left;
+}
+
+.thumbnail_pic_hover {
+  height: 100%;
+  width: 50%;
+  border: 0.5px black solid;
+  float: left;
+}
+
+.nibble {
+  float: left;
+  transition: all 300ms;
+}
+
+.nibble_after {
+  border: 1px solid black;
+  float: left;
+  transition: all 100ms;
+}
+
+.fields_list {
+  list-style-type: none;
+  max-width: 40%;
+  float: left;
+}
+
+.field_element {
+  display: flex;
+  flex-direction: row;
+  width: 80%;
+}
+
+.text_heavy {
+  font-weight: bold;
+}
+
+.button_g {
+  background-color: transparent;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: 800;
+  line-height: 1;
+}
+
+a {
+  text-decoration: none;
+}
+
+.nibble_container {
+  margin: auto;
+}
